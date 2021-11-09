@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Tarif\Tarif\bin\Debug\Tarif.exe.config
+C:\Users\user\source\repos\Tarif\Tarif\bin\Debug\Tarif.exe
+C:\Users\user\source\repos\Tarif\Tarif\bin\Debug\Tarif.pdb
+C:\Users\user\source\repos\Tarif\Tarif\obj\Debug\Tarif.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Tarif\Tarif\obj\Debug\Tarif.Form1.resources
+C:\Users\user\source\repos\Tarif\Tarif\obj\Debug\Tarif.Properties.Resources.resources
+C:\Users\user\source\repos\Tarif\Tarif\obj\Debug\Tarif.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Tarif\Tarif\obj\Debug\Tarif.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Tarif\Tarif\obj\Debug\Tarif.exe
+C:\Users\user\source\repos\Tarif\Tarif\obj\Debug\Tarif.pdb
